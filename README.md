@@ -15,6 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="613" alt="2021-11-22 10_12_06-Frontend Mentor _ Single Price Grid Component" src="https://user-images.githubusercontent.com/63516391/142834161-21fff337-c347-4d1a-9cc9-b9a0151173c3.png">
 
 
 
